@@ -1,0 +1,25 @@
+# Backend (Go)
+Number-Verification/bin/
+Number-Verification/pkg/
+Number-Verification/*.exe
+Number-Verification/*.out
+Number-Verification/*.log
+Number-Verification/.env
+Number-Verification/.env.*.local
+Number-Verification/coverage.out
+Number-Verification/vendor/
+
+# Frontend (React)
+number-verification-client/node_modules/
+number-verification-client/.env
+number-verification-client/.env.*.local
+number-verification-client/build/
+number-verification-client/dist/
+number-verification-client/.parcel-cache/
+
+# OS + IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
